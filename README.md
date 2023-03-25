@@ -2,7 +2,7 @@
 <h1> PyQt5 DNS SPoofing Tool </h1>
 </div>
 <div id="header" align="center">
-  <img src="https://image.noelshack.com/fichiers/2023/12/6/1679776387-gui.jpg">
+  <img src="https://image.noelshack.com/fichiers/2023/12/6/1679777085-gui.jpg">
 </div>
 
 # Introduction  
@@ -35,6 +35,9 @@ ARP poisoning for man-in-the-middle attacks
 DNS spoofing to redirect specific domains to desired IP addresses
 A simple and user-friendly graphical interface
 Real-time output display
+<div id="header" align="center">
+  <img src="https://image.noelshack.com/fichiers/2023/12/6/1679777196-ping.jpg">
+</div>
 
 # Usage 
 
@@ -44,7 +47,7 @@ Real-time output display
 4. Redirect to IP: The IP address you want to redirect the victim to (e.g., 192.168.1.2)
 5.Click the "Start" button to begin ARP poisoning and DNS spoofing.
 6. To stop the spoofing, click the "Stop" button. The tool will restore the original MAC addresses of the router and victim's machine.
-
+ 
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
