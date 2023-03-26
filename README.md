@@ -45,7 +45,7 @@ Real-time output display
 2. Router IP: The IP address of the router (e.g., 192.168.1.254)
 3. Victim IP: The IP address of the victim's machine (e.g., 192.168.1.100)
 4. Redirect to IP: The IP address you want to redirect the victim to (e.g., 192.168.1.2)
-5.Click the "Start" button to begin ARP poisoning and DNS spoofing.
+5. Click the "Start" button to begin ARP poisoning and DNS spoofing.
 6. To stop the spoofing, click the "Stop" button. The tool will restore the original MAC addresses of the router and victim's machine.
  
 # License
